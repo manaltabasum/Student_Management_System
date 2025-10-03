@@ -1,0 +1,27 @@
+.crud{
+    box-shadow: 2px 3px 2px gray;
+    background-color:#f1f1f1;
+}
+.action ul{
+    list-style: none;
+    display:flex;
+    padding:5px;
+}
+.action li{
+    padding: 4px;
+}
+table{
+    text-align: center;
+}
+.updiv{
+    background-color: rgba(227, 231, 233, 0.836);
+}
+.goto{
+    text-decoration: none;
+    border: 1px solid green;
+   
+}
+.img-table {
+    height: 100px;
+    width: 100px;
+}
